@@ -1,17 +1,17 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Maha Zaidi</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maha234zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="maha234zaidi" /> </p>
 
-- 🔭 I’m currently working on [Typescript](https://github.com/Maha234Zaidi/calculator-project-TS.git)
+
+- 🔭 I’m currently working on [TypeScript-Projects](https://github.com/Maha234Zaidi/calculator-project-TS.git)
 
 - 🌱 I’m currently learning Typescript,Python **Generative A.I from GIAIC Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maha234Zaidi?tab=repositories](https://github.com/Maha234Zaidi?tab=repositories)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind,JavaScript,React,MongoDb,Basic TypeScript,Node.js**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDb, Basic TypeScript, Node.js**
 
 - 📫 How to reach me **mraaj130@gmail.com**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@zaidi67630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaidi67630" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maha zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maha zaidi" height="30" width="40" /></a>
-<a href="https://fb.com/maha zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maha zaidi" height="30" width="40" /></a>
-<a href="https://instagram.com/maha zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maha zaidi" height="30" width="40" /></a>
+<a href="https://x.com/zaidi67630?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaidi67630" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maha-zaidi-5726ab270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maha zaidi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100091360387065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maha zaidi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mahazaidi130/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maha zaidi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
